@@ -1,0 +1,4 @@
+function insertext()
+{
+	document.getElementById("newContent") .innerHTML = "Some new text: <br>Hello <br>"
+}
